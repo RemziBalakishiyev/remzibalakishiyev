@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is Ramzi
+###  My Name is Ramzi
 #### I am  Software Developer | Instructor | Consultant
 ![I am  Software Developer | Instructor | Consultant](https://media.licdn.com/dms/image/v2/C4E16AQE-xBDvGE6Y0g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1661880938651?e=1730332800&v=beta&t=Q17H_uy22oI9Zt1zUnIyK6BEzskoZ8qoO9rpp-l26IQ)
 
