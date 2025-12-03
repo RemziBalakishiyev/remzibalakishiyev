@@ -1,27 +1,59 @@
-###  My Name is Ramzi
-#### I am  Software Developer | Instructor | Consultant
-![I am  Software Developer | Instructor | Consultant](https://media.licdn.com/dms/image/v2/C4E16AQE-xBDvGE6Y0g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1661880938651?e=1730332800&v=beta&t=Q17H_uy22oI9Zt1zUnIyK6BEzskoZ8qoO9rpp-l26IQ)
+# 👋 Hey, I'm Ramzi Balakishiyev  
+### Senior Software Developer • Instructor • Consultant
 
-I am an experienced software developer with 4 years of
-expertise in ReactJS, Angular, and ASP.NET Core. I specialize
-in developing dynamic and user-friendly web applications,
-utilizing modern front-end frameworks and robust backend technologies. With strong problem-solving and
-analytical skills, I pay close attention to detail and strive to
-deliver high-quality software solutions
+I'm a passionate software developer with 4+ years of hands-on experience building scalable, high-quality web applications using **React**, **Angular**, and **ASP.NET Core**.  
+I love designing clean architectures, solving complex problems, and delivering products with real business value.
 
-Skills: C# | SQL | API | JAVASCRIPT | REACT | ANGULAR
+---
 
-- 🔭 I’m currently working on Unisert IT Academy 
-- 🌱 I’m currently learning Linux | Docker 
+## 🚀 About Me
+- 💼 Currently working at **Ateshgah Insurance**
+- 🌱 Deepening expertise in **Linux**, **Docker**, distributed systems & clean architecture  
+- 🧠 Strong background in **front-end + back-end** development  
+- 🔧 Focused on writing maintainable, testable and scalable code  
+- 🎯 Passionate about sharing knowledge and mentoring developers  
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RemziBalakishiyev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/remzi-balakishiyev/)  
+## 🛠️ Tech Stack & Skills
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+**Languages & Core**
+- C# • JavaScript • TypeScript • SQL  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RemziBalakishiyev&show_icons=true&count_private=true)  
+**Backend**
+- ASP.NET Core • Entity Framework • REST APIs  
+- Clean Architecture • Onion Architecture
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/RemziBalakishiyev/contributions?format=svg&private=true)  
+**Frontend**
+- ReactJS • Next.js • Angular  
+- Redux • Tailwind • Component-Driven UI
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RemziBalakishiyev)  
+**Tools & DevOps**
+- Docker • Linux • Git • CI/CD  
+- Azure • Postman • Swagger  
 
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RemziBalakishiyev&show_icons=true&count_private=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=RemziBalakishiyev&theme=tokyonight)
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/RemziBalakishiyev/contributions?format=svg&private=true)
+
+---
+
+## 🌐 Connect With Me
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='28'>](https://github.com/RemziBalakishiyev)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='28'>](https://www.linkedin.com/in/remzi-balakishiyev/)
+
+---
+
+### 🔥 Bonus Badges
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
