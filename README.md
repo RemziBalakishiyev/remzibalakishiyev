@@ -34,13 +34,25 @@ I love designing clean architectures, solving complex problems, and delivering p
 
 ---
 
-## 📈 GitHub Statistics
+## 🚀 Developer Profile Summary
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RemziBalakishiyev&show_icons=true&count_private=true&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <strong>👨‍💻 Pull Requests:</strong> 13 <br>
+      <strong>🧩 Projects Contributed:</strong> 25 <br>
+      <strong>🔧 Reviews:</strong> 0 <br>
+      <strong>📦 Issues:</strong> 0 <br>
+      <strong>⭐ Stars Earned:</strong> 0 <br>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Senior%20Level-1-%23e63946?style=for-the-badge&logo=github" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Developer%20Rank-Top%2010%25-%2300b4d8?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=RemziBalakishiyev&theme=tokyonight)
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/RemziBalakishiyev/contributions?format=svg&private=true)
 
 ---
 
