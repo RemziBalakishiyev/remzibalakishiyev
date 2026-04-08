@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Ramzi Balakishiyev  
 ### Senior Software Developer • Instructor • Consultant
 
-I'm a passionate software developer with 4+ years of hands-on experience building scalable, high-quality web applications using **React**, **Angular**, and **ASP.NET Core**.  
+I'm a passionate software developer with 8+ years of hands-on experience building scalable, high-quality web applications using **React**, **Angular**, and **ASP.NET Core**.  
 I love designing clean architectures, solving complex problems, and delivering products with real business value.
 
 ---
