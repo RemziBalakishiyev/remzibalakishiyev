@@ -7,7 +7,6 @@ I love designing clean architectures, solving complex problems, and delivering p
 ---
 
 ## 🚀 About Me
-- 💼 Currently working at **Ateshgah Insurance**
 - 🌱 Deepening expertise in **Linux**, **Docker**, distributed systems & clean architecture  
 - 🧠 Strong background in **front-end + back-end** development  
 - 🔧 Focused on writing maintainable, testable and scalable code  
